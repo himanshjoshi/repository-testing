@@ -5,3 +5,6 @@ Wish me for future projects on Github.
 created the first branch, now testing how commit works.
 
 editing today,,,, lets pull next
+
+
+edit on branch now to check the new commit and merge
